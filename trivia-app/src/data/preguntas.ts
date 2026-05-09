@@ -1,0 +1,42 @@
+export const preguntas = [
+  {
+    idPreguntas: "1",
+    DescripcionPregunta: "React fue creado por Facebook",
+    opcionRespuesta1: true,
+    opcionRespuesta2: false,
+    respuestaCorrecta: true,
+    puntajePregunta: 1,
+  },
+  {
+    idPreguntas: "2",
+    DescripcionPregunta: "Java y JavaScript son iguales",
+    opcionRespuesta1: true,
+    opcionRespuesta2: false,
+    respuestaCorrecta: false,
+    puntajePregunta: 1,
+  },
+  {
+    idPreguntas: "3",
+    DescripcionPregunta: "Next.js utiliza React",
+    opcionRespuesta1: true,
+    opcionRespuesta2: false,
+    respuestaCorrecta: true,
+    puntajePregunta: 1,
+  },
+  {
+    idPreguntas: "4",
+    DescripcionPregunta: "CSS es un lenguaje de programación",
+    opcionRespuesta1: true,
+    opcionRespuesta2: false,
+    respuestaCorrecta: false,
+    puntajePregunta: 1,
+  },
+  {
+    idPreguntas: "5",
+    DescripcionPregunta: "TypeScript agrega tipado a JavaScript",
+    opcionRespuesta1: true,
+    opcionRespuesta2: false,
+    respuestaCorrecta: true,
+    puntajePregunta: 1,
+  },
+];
